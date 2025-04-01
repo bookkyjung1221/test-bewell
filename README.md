@@ -2,6 +2,6 @@
 
 go run cmd/main.go
 
--test
+- test
 
 go test -v .\test\
